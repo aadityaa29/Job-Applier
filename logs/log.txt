@@ -1,0 +1,204 @@
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like Google Chrome is out dated. Update browser and try again!
+
+If issue persists, try Safe Mode. Set, safe_mode = True in config.py
+
+
+In Opening Chrome
+<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-03-13 01:02:33.982054
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like Google Chrome is out dated. Update browser and try again!
+
+If issue persists, try Safe Mode. Set, safe_mode = True in config.py
+
+
+In Opening Chrome
+<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-03-13 01:04:14.841500
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like Google Chrome is out dated. Update browser and try again!
+
+If issue persists, try Safe Mode. Set, safe_mode = True in config.py
+
+
+In Opening Chrome
+<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-03-13 01:05:54.434149
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like Google Chrome is out dated. Update browser and try again!
+
+If issue persists, try Safe Mode. Set, safe_mode = True in config.py
+
+
+In Opening Chrome
+<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-03-13 01:10:35.275283
+In Applier Main
+'NoneType' object has no attribute 'window_handles'
+2026-03-13 01:10:40.635108
+Total runs: 1
+Jobs Easy Applied: 0
+External job links collected: 0
+Total applied or collected: 0
+Failed jobs: 0
+Irrelevant jobs skipped: 0
+
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+Success is not final, failure is not fatal, It is the courage to continue that counts. - Winston Churchill
+
+
+
+
+Summary:
+Total runs: 1
+Jobs Easy Applied: 0
+External job links collected: 0
+Total applied or collected: 0
+Failed jobs: 0
+Irrelevant jobs skipped: 0
+
+Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like Google Chrome is out dated. Update browser and try again!
+
+If issue persists, try Safe Mode. Set, safe_mode = True in config.py
+
+
+In Opening Chrome
+<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-03-13 01:13:08.634708
+In Applier Main
+'NoneType' object has no attribute 'window_handles'
+2026-03-13 01:13:13.903451
+Total runs: 1
+Jobs Easy Applied: 0
+External job links collected: 0
+Total applied or collected: 0
+Failed jobs: 0
+Irrelevant jobs skipped: 0
+
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson
+
+
+
+
+Summary:
+Total runs: 1
+Jobs Easy Applied: 0
+External job links collected: 0
+Total applied or collected: 0
+Failed jobs: 0
+Irrelevant jobs skipped: 0
+
+Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM!
+Logging in with a guest profile, Web history will not be saved!
+Failed to create Chrome Session, retrying with guest profile
+Message: session not created
+from unknown error: Could not remove old devtools port file. Perhaps the given user-data-dir at --user-data-dir=C:\temp\auto-job-apply-profile is still attached to a running Chrome or Chromium process; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x98ee63+10893]
+	chromedriver!GetHandleVerifier [0x98ef94+109c4]
+	chromedriver!(No symbol) [0x772130]
+	chromedriver!(No symbol) [0x7ac060]
+	chromedriver!(No symbol) [0x7a8124]
+	chromedriver!(No symbol) [0x7a2690]
+	chromedriver!(No symbol) [0x7e9caf]
+	chromedriver!(No symbol) [0x7e94c7]
+	chromedriver!(No symbol) [0x7dd896]
+	chromedriver!(No symbol) [0x7b0229]
+	chromedriver!(No symbol) [0x7b0fe4]
+	chromedriver!GetHandleVerifier [0xbf1fe9+273a19]
+	chromedriver!GetHandleVerifier [0xbed5f3+26f023]
+	chromedriver!GetHandleVerifier [0xc0b31b+28cd4b]
+	chromedriver!GetHandleVerifier [0x9a7dd8+29808]
+	chromedriver!GetHandleVerifier [0x9afb1d+3154d]
+	chromedriver!GetHandleVerifier [0x997888+192b8]
+	chromedriver!GetHandleVerifier [0x997a52+19482]
+	chromedriver!GetHandleVerifier [0x98116a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x76695d49+19]
+	ntdll!RtlInitializeExceptionChain [0x777cd83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x777cd7c1+231]
+
+2026-03-13 01:18:03.392010
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM!
+Will login with a guest profile, browsing history will not be saved!
+Login successful!
+
+########################################################################################################################
+
+Date and Time: 2026-03-13 01:18:21.730198
+Cycle number: 1
+Currently looking for jobs posted within 'Any time' and sorting them by 'Most recent'
+The CSV file 'all excels/all_applied_applications_history.csv' does not exist.
+
+________________________________________________________________________________________________________________________
+
+
+>>>> Now searching for "Machine Learning Intern" <<<<
+
+
+Setting search location as: "India"
+Total runs: 1
+Jobs Easy Applied: 0
+External job links collected: 0
+Total applied or collected: 0
+Failed jobs: 0
+Irrelevant jobs skipped: 0
+
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+Opportunities don't happen, you create them. - Chris Grosser
+
+
+
+
+Summary:
+Total runs: 1
+Jobs Easy Applied: 0
+External job links collected: 0
+Total applied or collected: 0
+Failed jobs: 0
+Irrelevant jobs skipped: 0
+
+Closing the browser...
