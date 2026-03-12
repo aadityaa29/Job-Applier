@@ -1,0 +1,1 @@
+pip install undetected-chromedriver pyautogui setuptools openai flask-cors flask
